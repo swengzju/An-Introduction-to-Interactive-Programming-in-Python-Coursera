@@ -2,4 +2,4 @@ My solutions to An Introduction to Interactive Programming in Python on Coursera
 
 Course link: https://www.coursera.org/learn/interactive-python-1, https://www.coursera.org/learn/interactive-python-2.
 
-Copy the codes on http://www.codeskulptor.org/ to run.
+Copy the codes on http://www.codeskulptor.org/ to run. Format: http://www.codeskulptor.org/#file_name.py
